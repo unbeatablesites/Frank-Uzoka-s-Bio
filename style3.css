@@ -1,0 +1,16 @@
+#main-bio {
+  width: 80%;
+}
+
+#contact-info {
+  width: 20%;
+}
+
+#bio-image {
+  /* Box-model */
+  width: 200px;
+  height: 200px;
+
+  /* Positioning */
+  margin-right: 20px;
+}
