@@ -5,8 +5,14 @@ body {
   font-size: 18px;
   line-height: 150%;
   background: #efeee7;
+  color: #333;
 }
 
 header {
   background: #d21034;
+}
+
+h1 {
+  padding: 20px;
+  margin: 0;
 }
