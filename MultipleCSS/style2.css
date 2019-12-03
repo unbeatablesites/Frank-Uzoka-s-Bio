@@ -9,3 +9,8 @@ a {
   width: 1024px;
   margin: 0;
 }
+#main-bio,
+#contact-info,
+#bio-image {
+  float: left;
+}
