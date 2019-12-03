@@ -7,8 +7,9 @@ a {
 
 .container {
   width: 1024px;
-  margin: 0;
+  margin: 0 auto;
 }
+
 #main-bio,
 #contact-info,
 #bio-image {
